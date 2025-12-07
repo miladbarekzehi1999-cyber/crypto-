@@ -1,0 +1,4 @@
+requests
+pytz
+jdatetime
+python-telegram-bot==13.15
